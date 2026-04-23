@@ -5,3 +5,6 @@
 #include<string.h>
 #include<errno.h>
 
+#include "config.h"
+#include "signals.h"
+#include "builtins.h"
