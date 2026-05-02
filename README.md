@@ -32,12 +32,7 @@ demonstrating core OS concepts:
 make
 
 # Run the shell
-make run
-# or
 ./myshell
-
-# Run smoke tests
-make test
 
 # Clean build artifacts
 make clean
